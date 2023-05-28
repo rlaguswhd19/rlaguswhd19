@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![rlaguswhd19's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaguswhd19&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaguswhd19&layout=compact&theme=merko)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaguswhd19)](https://solved.ac/rlaguswhd19)
 <!--
 **rlaguswhd19/rlaguswhd19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
